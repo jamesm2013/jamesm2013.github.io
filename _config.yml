@@ -1,11 +1,11 @@
 # Site settings
-author: james Johnson
-title: 
+author: James M. Johnson
+title: Why I want to become a software engineer
 header-img: img/home-bg.png
 email: 2013matthew2013@gmail.com
-copyright_name: james Johnson
+copyright_name: James M. Johnson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I want to become a software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jamesm2013
